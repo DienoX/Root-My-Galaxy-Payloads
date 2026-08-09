@@ -54,11 +54,11 @@
       "models": ["SM-S931B"],
       "kernelVersions": ["6.6.30"],
       "exploit": {
-        "url": "https://raw.githubusercontent.com/UsrBinLuna/Root-My-Galaxy-Payloads/refs/heads/main/artifacts/pa1q-S931BXXS5AYG4/cve-2026-43499-app.release.so",
+        "url": "https://raw.githubusercontent.com/UsrBinLuna/Root-My-Galaxy-Payloads/main/artifacts/pa1q-S931BXXS5AYG4/cve-2026-43499-app.release.so",
         "size": 104128
       },
       "kernelsu": {
-        "url": "https://raw.githubusercontent.com/UsrBinLuna/Root-My-Galaxy-Payloads/refs/heads/main/kernelsu/ksud-pa1q-S931BXXS5AYG4-kdp",
+        "url": "https://raw.githubusercontent.com/UsrBinLuna/Root-My-Galaxy-Payloads/main/kernelsu/ksud-pa1q-S931BXXS5AYG4-kdp",
         "size": 4763800
       }
     },
